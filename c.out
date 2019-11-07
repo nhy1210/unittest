@@ -1,0 +1,3 @@
+mode: set
+unitest/main.go:7.23,9.2 1 1
+unitest/main.go:10.13,12.2 1 0
